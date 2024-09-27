@@ -1,0 +1,16 @@
+python
+java
+javascript
+sql
+php
+c#
+c++
+c
+c
+c
+c
+c
+c
+portugol
+inglesgol
+penisgol
